@@ -1,0 +1,2 @@
+import { CategoryDirectory } from '../../components/category-directory';
+export default function Page(){return <CategoryDirectory resource="teachers" title="শিক্ষক" description="বিষয়, প্রতিষ্ঠান ও এলাকার ভিত্তিতে ফেনীর শিক্ষক খুঁজে নিন।" metaKey="level" tabs={[{key:'all',label:'সব'},{key:'প্রাইমারী',label:'প্রাইমারী'},{key:'হাইস্কুল',label:'হাইস্কুল'},{key:'কলেজ',label:'কলেজ'},{key:'মাদ্রসা',label:'মাদ্রসা'},{key:'কোচিং',label:'কোচিং'}]}/>}

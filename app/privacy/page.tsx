@@ -1,0 +1,1 @@
+export default function Page(){return <section className="container py-12"><div className="card p-7 md:p-10"><h1 className="text-3xl font-black">Privacy</h1><p className="muted mt-4">এই পেজের content Laravel Admin Panel থেকে পরিচালনা করা যাবে।</p></div></section>}

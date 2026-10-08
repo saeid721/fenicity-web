@@ -1,0 +1,2 @@
+import { CategoryDirectory } from '../../components/category-directory';
+export default function Page(){return <CategoryDirectory resource="educational-institutes" title="শিক্ষা প্রতিষ্ঠান" description="প্রাইমারী, হাইস্কুল, কলেজ, মাদ্রাসা ও কোচিং—ফেনীর শিক্ষা প্রতিষ্ঠানের তথ্য।" metaKey="level" tabs={[{key:'all',label:'সব'},{key:'প্রাইমারী',label:'প্রাইমারী'},{key:'হাইস্কুল',label:'হাইস্কুল'},{key:'কলেজ',label:'কলেজ'},{key:'মাদ্রসা',label:'মাদ্রসা'},{key:'কোচিং',label:'কোচিং'}]}/>}

@@ -1,0 +1,1 @@
+All public content pages below consume Laravel API data. Do not hardcode directory/business/news data here.
